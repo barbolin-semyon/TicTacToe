@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/syoma/Downloads/TicTacToe/app/src/main/res/drawable-v24/vertical_line.xml" value="0.1" />
+        <entry key="..\:/Users/syoma/Downloads/TicTacToe/app/src/main/res/drawable/ic_rectangle_1.xml" value="0.1" />
+        <entry key="..\:/Users/syoma/Downloads/TicTacToe/app/src/main/res/font/circle.xml" value="0.1" />
         <entry key="..\:/Users/syoma/Downloads/TicTacToe/app/src/main/res/layout/activity_main.xml" value="0.12708333333333333" />
-        <entry key="..\:/Users/syoma/Downloads/TicTacToe/app/src/main/res/layout/fragment_start.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/syoma/Downloads/TicTacToe/app/src/main/res/layout/fragment_start.xml" value="0.136" />
       </map>
     </option>
   </component>

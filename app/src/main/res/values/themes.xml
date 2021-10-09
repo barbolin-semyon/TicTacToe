@@ -3,6 +3,6 @@
     <style name="Theme.TicTacToe" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
-        
+        <item name="fontFamily">@font/circle</item>
     </style>
 </resources>
